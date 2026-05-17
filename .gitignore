@@ -1,0 +1,25 @@
+# API keys y variables de entorno — NUNCA subir al repo
+.env
+ 
+# Base de datos vectorial ChromaDB (generada localmente)
+chroma_db_*/
+ 
+# Datos fuente (descarga manual)
+data/*.pdf
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ 
+# IDEs
+.vscode/
+.idea/
+*.swp
+ 
