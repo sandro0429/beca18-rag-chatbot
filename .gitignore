@@ -4,8 +4,6 @@
 # Base de datos vectorial ChromaDB (generada localmente)
 chroma_db_*/
  
-# Datos fuente (descarga manual)
-data/*.pdf
  
 # Python
 __pycache__/
